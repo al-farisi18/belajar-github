@@ -21,7 +21,7 @@ Langkah-langkah:
 Fungsi:
 Mengupload project ke repository GitHub.
 
-<img src="#" width="300">
+<img src="asset/Screenshot 2026-05-11 100135.png" width="300">
 
 
 ---
@@ -37,7 +37,7 @@ Langkah-langkah:
 Fungsi:
 Mengambil project dari GitHub agar bisa diedit.
 
-<img src="gambar.png" width="300">
+<img src="asset/Screenshot 2026-05-11 100329.png" width="300">
 
 ---
 
@@ -54,7 +54,7 @@ Langkah-langkah:
 Fungsi:
 Agar file tetap sinkron antara lokal dan GitHub.
 
-<img src="gambar.png" width="300">
+<img src="asset/Screenshot 2026-05-11 100531.png" width="300">
 
 ---
 
